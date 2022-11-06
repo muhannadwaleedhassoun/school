@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2022-11-01T11:27:02.672109147</dc:date><meta:editing-duration>PT49M36S</meta:editing-duration><meta:editing-cycles>37</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="2" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="175" meta:word-count="897" meta:character-count="5611" meta:non-whitespace-character-count="4894"/></office:meta>
+ <office:meta><dc:date>2022-11-06T18:58:49.728573673</dc:date><meta:editing-duration>PT51M16S</meta:editing-duration><meta:editing-cycles>39</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="2" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="167" meta:word-count="838" meta:character-count="5239" meta:non-whitespace-character-count="4573"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">50848</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">43171</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">35588</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">13522</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">35800</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">12490</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">8999</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">123950</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">12966</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">51387</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">50848</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">35586</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">64368</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">43171</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">35798</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">55660</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -88,7 +88,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">893290</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">985447</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -150,7 +150,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Tahoma" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma1" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SY"/>
@@ -231,52 +231,52 @@
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <text:outline-style style:name="Outline">
-   <text:outline-level-style text:level="1" style:num-format="">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="2" style:num-format="">
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="3" style:num-format="">
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="4" style:num-format="">
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="5" style:num-format="">
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="6" style:num-format="">
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="7" style:num-format="">
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="8" style:num-format="">
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="9" style:num-format="">
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="10" style:num-format="">
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
@@ -344,121 +344,153 @@
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
    <style:text-properties officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a"/>
   </style:style>
-  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Heading_20_3">
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-size="12pt" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a"/>
   </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Heading_20_3">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="000da16a"/>
+   <style:text-properties fo:font-size="12pt" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="000da16a"/>
+   <style:text-properties fo:font-size="12pt" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="000da16a"/>
-  </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="000da16a"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="000da16a"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L7">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="000da16a"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L8">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:paragraph-rsid="000da16a"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-size="13pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-weight="normal" officeooo:paragraph-rsid="000da16a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="18pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-size="12pt" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="12pt" officeooo:paragraph-rsid="000da16a" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="12pt" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="12pt" fo:font-weight="bold" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="12pt" fo:font-weight="bold" officeooo:paragraph-rsid="000da16a" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-size="12pt" style:text-underline-style="none" fo:font-weight="normal" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-size-asian="12pt" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:paragraph-rsid="000da16a"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-size="13pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-weight="normal" officeooo:paragraph-rsid="000da16a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="18pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" fo:background-color="transparent" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-size="12pt" style:text-underline-style="none" fo:font-weight="bold" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="12pt" officeooo:rsid="000f0967" officeooo:paragraph-rsid="000f0967" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-size="12pt" style:text-underline-style="none" fo:font-weight="bold" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="18pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000da16a" fo:background-color="transparent" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-size="13pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:paragraph-rsid="000da16a"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:paragraph-rsid="000da16a"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-weight="normal" officeooo:paragraph-rsid="000da16a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="000da16a" officeooo:paragraph-rsid="000da16a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-weight="normal" fo:background-color="#cccccc" loext:char-shading-value="0" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties officeooo:rsid="000da16a"/>
+   <style:text-properties fo:font-weight="normal" fo:background-color="#cccccc" loext:char-shading-value="0" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T4" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="000da16a" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="T5" style:family="text">
    <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="T6" style:family="text">
+  <style:style style:name="T4" style:family="text">
    <style:text-properties fo:font-weight="normal" officeooo:rsid="000da16a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="000da16a"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties fo:font-weight="normal" fo:background-color="#cccccc" loext:char-shading-value="0" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="000da16a" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
    <style:text-properties fo:font-size="13pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
@@ -520,11 +552,12 @@
    </text:list-level-style-number>
   </text:list-style>
   <text:list-style style:name="L2">
-   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
     </style:list-level-properties>
-   </text:list-level-style-number>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
    <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
@@ -572,11 +605,12 @@
    </text:list-level-style-number>
   </text:list-style>
   <text:list-style style:name="L3">
-   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
     </style:list-level-properties>
-   </text:list-level-style-number>
+    <style:text-properties style:font-name="OpenSymbol"/>
+   </text:list-level-style-bullet>
    <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
@@ -624,12 +658,11 @@
    </text:list-level-style-number>
   </text:list-style>
   <text:list-style style:name="L4">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
     </style:list-level-properties>
-    <style:text-properties style:font-name="OpenSymbol"/>
-   </text:list-level-style-bullet>
+   </text:list-level-style-number>
    <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
@@ -730,111 +763,6 @@
    </text:list-level-style-number>
   </text:list-style>
   <text:list-style style:name="L6">
-   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-  </text:list-style>
-  <text:list-style style:name="L7">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
-    </style:list-level-properties>
-    <style:text-properties style:font-name="OpenSymbol"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
-     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
-    </style:list-level-properties>
-   </text:list-level-style-number>
-  </text:list-style>
-  <text:list-style style:name="L8">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
@@ -888,24 +816,27 @@
    </text:list-level-style-number>
   </text:list-style>
   <style:page-layout style:name="pm1">
-   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in" loext:margin-gutter="0in">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style>
-    <style:header-footer-properties fo:min-height="0in" fo:margin-bottom="0.1965in" fo:background-color="transparent" draw:fill="none"/>
+    <style:header-footer-properties fo:min-height="0in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.1965in" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf"/>
    </style:header-style>
    <style:footer-style>
-    <style:header-footer-properties fo:min-height="0in" fo:margin-top="0.1965in" fo:background-color="transparent" draw:fill="none"/>
+    <style:header-footer-properties fo:min-height="0in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.1965in" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf"/>
    </style:footer-style>
   </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
  </office:automatic-styles>
  <office:master-styles>
-  <style:master-page style:name="Standard" style:page-layout-name="pm1">
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:header>
     <text:p text:style-name="Header"/>
    </style:header>
    <style:footer>
-    <text:p text:style-name="P1"><text:span text:style-name="T1">Muhannad Hassoun 0997606295</text:span><text:tab/><text:page-number text:select-page="current">5</text:page-number></text:p>
+    <text:p text:style-name="P1"><text:span text:style-name="T1">Muhannad Hassoun 0997606295</text:span><text:tab/><text:page-number text:select-page="current">4</text:page-number></text:p>
    </style:footer>
   </style:master-page>
  </office:master-styles>
@@ -918,138 +849,138 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P17"><text:span text:style-name="T2">Simple Present</text:span></text:p>
-   <text:p text:style-name="P4"/>
-   <text:p text:style-name="P12"><text:span text:style-name="T8">When Should I Use The Present Simple Tense?</text:span></text:p>
-   <text:p text:style-name="P12"><text:span text:style-name="T8"/></text:p>
-   <text:p text:style-name="P12">1. <text:span text:style-name="T3">We use the present simple when something is generally true.</text:span> For example:</text:p>
-   <text:p text:style-name="P13">نستخدم المضارع البسيط عندما يكون شيء ما صحيحًا بشكل عام</text:p>
-   <text:list xml:id="list3037356729" text:style-name="L1">
+   <text:p text:style-name="P24">Simple Present</text:p>
+   <text:p text:style-name="P15"/>
+   <text:p text:style-name="P25">When Should I Use The Present Simple Tense?</text:p>
+   <text:p text:style-name="P25"/>
+   <text:p text:style-name="P3">1. <text:span text:style-name="T6">We use the present simple when something is generally true.</text:span> For example:</text:p>
+   <text:p text:style-name="P4">نستخدم المضارع البسيط عندما يكون شيء ما صحيحًا بشكل عام</text:p>
+   <text:list xml:id="list2948416828" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P5"><text:span text:style-name="T2">The sun rises in the east.</text:span></text:p>
+     <text:p text:style-name="P28">The sun rises in the east.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P5"><text:span text:style-name="T2">People need food.</text:span></text:p>
+     <text:p text:style-name="P28">People need food.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P5"><text:span text:style-name="T2">It snows in winter.</text:span></text:p>
+     <text:p text:style-name="P28">It snows in winter.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P5"><text:span text:style-name="T2">The sky isn&apos;t green.</text:span></text:p>
+     <text:p text:style-name="P28">The sky isn&apos;t green.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P5"><text:span text:style-name="T2">Plants die without water.</text:span></text:p>
+     <text:p text:style-name="P28">Plants die without water.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P5"><text:span text:style-name="T2">Two and two make four.</text:span></text:p>
-     <text:p text:style-name="P5"/>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P12">2. <text:span text:style-name="T3">We use this tense for a situation that we think is more or less permanent.</text:span></text:p>
-   <text:p text:style-name="P13">نستخدم هذا الزمن في حالة نعتقد أنها دائمة إلى حد ما</text:p>
-   <text:list xml:id="list129789925" text:style-name="L4">
-    <text:list-item>
-     <text:p text:style-name="P7"><text:span text:style-name="T2">Where do you live?</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P7"><text:span text:style-name="T2">She works in a bank.</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P7"><text:span text:style-name="T2">They love coffee.</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P7"><text:span text:style-name="T2">She has three children.</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P7"><text:span text:style-name="T2">I am married.</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P7"><text:span text:style-name="T2">I don&apos;t like mushrooms.</text:span></text:p>
-     <text:p text:style-name="P7"/>
+     <text:p text:style-name="P28">Two and two make four.</text:p>
+     <text:p text:style-name="P26"/>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P6">3. <text:span text:style-name="T4">W</text:span><text:span text:style-name="T3">e use it also is for habits or things that we do regularly. We often use adverbs <text:tab/>of frequency (such as &apos;often&apos;, &apos;always&apos; and &apos;never&apos;) in this case.</text:span></text:p>
-   <text:p text:style-name="P15">نستخدمه أيضًا للعادات أو الأشياء التي نقوم بها بانتظام. غالبًا ما نستخدم ظروف التكرار (مثل &quot;غالبًا&quot; و &quot;دائمًا&quot; و &quot;أبدًا&quot;) في هذه الحالة</text:p>
-   <text:list xml:id="list3097160296" text:style-name="L5">
+   <text:p text:style-name="P3">2. <text:span text:style-name="T6">We use this tense for a situation that we think is more or less permanent.</text:span></text:p>
+   <text:p text:style-name="P4">نستخدم هذا الزمن في حالة نعتقد أنها دائمة إلى حد ما</text:p>
+   <text:list xml:id="list1300780962" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P8"><text:span text:style-name="T5">Do you smoke?</text:span></text:p>
+     <text:p text:style-name="P29">Where do you live?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8"><text:span text:style-name="T5">I play tennis every Tuesday.</text:span></text:p>
+     <text:p text:style-name="P29">She works in a bank.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8"><text:span text:style-name="T5">We often go to the cinema.</text:span></text:p>
+     <text:p text:style-name="P29">They love coffee.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8"><text:span text:style-name="T5">She gets up at seven o&apos;clock every day.</text:span></text:p>
+     <text:p text:style-name="P29">She has three children.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P8"><text:span text:style-name="T5">At the weekend, we usually go to the market.</text:span></text:p>
-     <text:p text:style-name="P8"><text:span text:style-name="T5"/></text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P12"><text:span text:style-name="T5">4. </text:span><text:span text:style-name="T3">We use the simple present to talk about what happens in books, plays, or films:</text:span></text:p>
-   <text:p text:style-name="P16">نستخدم المضارع البسيط للتحدث عما يحدث في الكتب والمسرحيات والأفلام</text:p>
-   <text:list xml:id="list3633791475" text:style-name="L6">
-    <text:list-item>
-     <text:p text:style-name="P9"><text:span text:style-name="T6">The hero dies at the end of the film.</text:span></text:p>
+     <text:p text:style-name="P29">I am married.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P9"><text:span text:style-name="T6">A young woman travels through Europe, where she meets different people, and</text:span></text:p>
-     <text:p text:style-name="P9"><text:span text:style-name="T6">finally falls in love.</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P9"><text:span text:style-name="T6">In this book, an army invades Britain.</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P9"><text:span text:style-name="T6">The main character is very pretty and works in a bookshop.</text:span></text:p>
+     <text:p text:style-name="P29">I don&apos;t like mushrooms.</text:p>
+     <text:p text:style-name="P27"/>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P6"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P6"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P12"><text:soft-page-break/><text:span text:style-name="T5">5.</text:span><text:span text:style-name="T3"> We also use the present simple to talk about the future after words like &apos; &apos;when&apos;, <text:tab/>&apos;until&apos;, &apos;after&apos;, &apos;before&apos; and &apos;as soon as&apos; in a future sentence:</text:span></text:p>
-   <text:p text:style-name="P16">نستخدم المضارع البسيط أيضًا للتحدث عن المستقبل بعد كلمات مثل &quot;متى&quot; و &quot;حتى&quot; و &quot;بعد&quot; و &quot;قبل&quot; و &quot;بمجرد&quot; في جملة مستقبلية</text:p>
-   <text:list xml:id="list2396390737" text:style-name="L7">
+   <text:p text:style-name="P16">3. <text:span text:style-name="T7">W</text:span><text:span text:style-name="T6">e use it also is for habits or things that we do regularly. We often use adverbs <text:tab/>of frequency (such as &apos;often&apos;, &apos;always&apos; and &apos;never&apos;) in this case.</text:span></text:p>
+   <text:p text:style-name="P18">نستخدمه أيضًا للعادات أو الأشياء التي نقوم بها بانتظام. غالبًا ما نستخدم ظروف التكرار (مثل &quot;غالبًا&quot; و &quot;دائمًا&quot; و &quot;أبدًا&quot;) في هذه الحالة</text:p>
+   <text:list xml:id="list4064620013" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P10"><text:span text:style-name="T6">I will call you when I have time. (Not: &apos;will have&apos;)</text:span></text:p>
+     <text:p text:style-name="P30">Do you smoke?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P10"><text:span text:style-name="T6">I won&apos;t go out until it stops raining.</text:span></text:p>
+     <text:p text:style-name="P30">I play tennis every Tuesday.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P10"><text:span text:style-name="T6">She&apos;ll come as soon as her babysitter arrives.s</text:span></text:p>
+     <text:p text:style-name="P30">We often go to the cinema.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P10"><text:span text:style-name="T6">I&apos;m going to make dinner after I watch the news.</text:span></text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P12"><text:span text:style-name="T5"/></text:p>
-   <text:p text:style-name="P12"><text:span text:style-name="T5">6. </text:span><text:span text:style-name="T3">We often need to use this tense with stative verbs, in situations where we&apos;d <text:tab/>usually use the present continuous:</text:span></text:p>
-   <text:p text:style-name="P16">غالبًا ما نحتاج إلى استخدام هذا الفعل مع الأفعال النصية ، في المواقف التي نستخدم فيها المضارع المستمر</text:p>
-   <text:list xml:id="list4164047983" text:style-name="L8">
-    <text:list-item>
-     <text:p text:style-name="P11"><text:span text:style-name="T6">This soup tastes great.</text:span></text:p>
+     <text:p text:style-name="P30">She gets up at seven o&apos;clock every day.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11"><text:span text:style-name="T6">You look fabulous.</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P11"><text:span text:style-name="T6">I think she is very pretty.</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P11"><text:span text:style-name="T6">I am cold.</text:span></text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P11"><text:span text:style-name="T6">I promise I will help you.</text:span></text:p>
+     <text:p text:style-name="P30">At the weekend, we usually go to the market.</text:p>
+     <text:p text:style-name="P30"/>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P6"><text:span text:style-name="T6"/></text:p>
-   <text:p text:style-name="P14">How do we make the Present Simple tense?</text:p>
-   <text:p text:style-name="P18"/>
-   <text:p text:style-name="P18">1. Positive sentences <text:tab/>subject + main verb</text:p>
-   <text:p text:style-name="P18">2. Negative and question sentences</text:p>
-   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P3"><text:span text:style-name="T3">4. </text:span><text:span text:style-name="T6">We use the simple present to talk about what happens in books, plays, or films:</text:span></text:p>
+   <text:p text:style-name="P19">نستخدم المضارع البسيط للتحدث عما يحدث في الكتب والمسرحيات والأفلام</text:p>
+   <text:list xml:id="list2563096889" text:style-name="L4">
+    <text:list-item>
+     <text:p text:style-name="P31">The hero dies at the end of the film.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P31">A young woman travels through Europe, where she meets different people, and</text:p>
+     <text:p text:style-name="P31">finally falls in love.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P31">In this book, an army invades Britain.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P31">The main character is very pretty and works in a bookshop.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P32"/>
+   <text:p text:style-name="P32"/>
+   <text:p text:style-name="P32"/>
+   <text:p text:style-name="P3"><text:soft-page-break/><text:span text:style-name="T3">5.</text:span><text:span text:style-name="T6"> We also use the present simple to talk about the future after words like &apos; &apos;when&apos;, <text:tab/>&apos;until&apos;, &apos;after&apos;, &apos;before&apos; and &apos;as soon as&apos; in a future sentence:</text:span></text:p>
+   <text:p text:style-name="P19">نستخدم المضارع البسيط أيضًا للتحدث عن المستقبل بعد كلمات مثل &quot;متى&quot; و &quot;حتى&quot; و &quot;بعد&quot; و &quot;قبل&quot; و &quot;بمجرد&quot; في جملة مستقبلية</text:p>
+   <text:list xml:id="list1918490970" text:style-name="L5">
+    <text:list-item>
+     <text:p text:style-name="P33">I will call you when I have time. (Not: &apos;will have&apos;)</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P33">I won&apos;t go out until it stops raining.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P33">She&apos;ll come as soon as her babysitter arrives.s</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P33">I&apos;m going to make dinner after I watch the news.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P32"/>
+   <text:p text:style-name="P3"><text:span text:style-name="T3">6. </text:span><text:span text:style-name="T6">We often need to use this tense with stative verbs, in situations where we&apos;d <text:tab/>usually use the present continuous:</text:span></text:p>
+   <text:p text:style-name="P19">غالبًا ما نحتاج إلى استخدام هذا الفعل مع الأفعال النصية ، في المواقف التي نستخدم فيها المضارع المستمر</text:p>
+   <text:list xml:id="list1828519774" text:style-name="L6">
+    <text:list-item>
+     <text:p text:style-name="P34">This soup tastes great.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P34">You look fabulous.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P34">I think she is very pretty.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P34">I am cold.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P34">I promise I will help you.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P32"/>
+   <text:p text:style-name="P17">How do we make the Present Simple tense?</text:p>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P6">1. Positive sentences <text:tab/>subject + main verb</text:p>
+   <text:p text:style-name="P6">2. Negative and question sentences</text:p>
+   <text:p text:style-name="P6"/>
    <table:table table:name="Table1" table:style-name="Table1">
     <table:table-column table:style-name="Table1.A"/>
     <table:table-column table:style-name="Table1.B"/>
@@ -1060,167 +991,167 @@
     <table:table-column table:style-name="Table1.G"/>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21"/>
+      <text:p text:style-name="P10"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P24">Subject</text:p>
+      <text:p text:style-name="P13">Subject</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">+</text:p>
+      <text:p text:style-name="P10">+</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P20"><text:span text:style-name="T3">auxiliary</text:span><text:span text:style-name="T4">(</text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T3">do</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T4">)</text:span></text:span></text:p>
+      <text:p text:style-name="P9"><text:span text:style-name="T6">auxiliary</text:span><text:span text:style-name="T7">(</text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T6">do</text:span></text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T7">)</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">+</text:p>
+      <text:p text:style-name="P10">+</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P22">main verb</text:p>
+      <text:p text:style-name="P11">main verb</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P22"/>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P24">Positive</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">I, we, you, they</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19"/>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19"/>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19"/>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">like</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">fish</text:p>
+      <text:p text:style-name="P11"/>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P24">Positive</text:p>
+      <text:p text:style-name="P13">Positive</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">He, she, it</text:p>
+      <text:p text:style-name="P10">I, we, you, they</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P8"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21"/>
+      <text:p text:style-name="P8"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P8"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">like<text:span text:style-name="T3">s</text:span></text:p>
+      <text:p text:style-name="P10">like</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">Fish</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P24">Negative</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19">I, you, we, they</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19"/>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">Do not</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19"/>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">Like</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">Fish</text:p>
+      <text:p text:style-name="P10">fish</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P24">Negative</text:p>
+      <text:p text:style-name="P13">Positive</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">He, she, it</text:p>
+      <text:p text:style-name="P10">He, she, it</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P8"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">Does not</text:p>
+      <text:p text:style-name="P10"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P8"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">Like</text:p>
+      <text:p text:style-name="P10">like<text:span text:style-name="T6">s</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">Fish</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P24">Question</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">Do</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19"/>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">I, you, we, they</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19"/>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">Like</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">Fish?</text:p>
+      <text:p text:style-name="P10">Fish</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P24">Question</text:p>
+      <text:p text:style-name="P13">Negative</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">Does</text:p>
+      <text:p text:style-name="P8">I, you, we, they</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P8"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">He, she, it</text:p>
+      <text:p text:style-name="P10">Do not</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P19"/>
+      <text:p text:style-name="P8"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">Like</text:p>
+      <text:p text:style-name="P10">Like</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">Fish?</text:p>
+      <text:p text:style-name="P10">Fish</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P13">Negative</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P10">He, she, it</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P8"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P10">Does not</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P8"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P10">Like</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P10">Fish</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P13">Question</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P10">Do</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P8"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P10">I, you, we, they</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P8"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P10">Like</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P10">Fish?</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P13">Question</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P10">Does</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P8"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P10">He, she, it</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P8"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P10">Like</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P10">Fish?</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="P3" text:outline-level="3"><text:span text:style-name="T9">Present Simple with main verb </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T9">be</text:span></text:span></text:h>
+   <text:h text:style-name="P5" text:outline-level="3"><text:span text:style-name="T9">Present Simple with main verb </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T9">be</text:span></text:span></text:h>
    <table:table table:name="Table2" table:style-name="Table2">
     <table:table-column table:style-name="Table2.A"/>
     <table:table-column table:style-name="Table2.B"/>
@@ -1230,208 +1161,199 @@
     <table:table-column table:style-name="Table2.F"/>
     <table:table-row>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21"/>
+      <text:p text:style-name="P10"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P24">Subject</text:p>
+      <text:p text:style-name="P13">Subject</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">+</text:p>
+      <text:p text:style-name="P10">+</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20"><text:span text:style-name="Emphasis"><text:span text:style-name="T4">Main verb(be)</text:span></text:span></text:p>
+      <text:p text:style-name="P9"><text:span text:style-name="Emphasis"><text:span text:style-name="T7">Main verb(be)</text:span></text:span></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21"/>
+      <text:p text:style-name="P10"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P23"/>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P24">Positive</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">I, we, you, they</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20"/>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">am</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20"/>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">Syrian</text:p>
+      <text:p text:style-name="P12"/>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P24">Positive</text:p>
+      <text:p text:style-name="P13">Positive</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">He, she, it</text:p>
+      <text:p text:style-name="P10">I</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20"/>
+      <text:p text:style-name="P9"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">is</text:p>
+      <text:p text:style-name="P10">am</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20"/>
+      <text:p text:style-name="P9"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P25">Syrian</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P24">Negative</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20">I, you, we, they</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20"/>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">am</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">not</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">Syrian</text:p>
+      <text:p text:style-name="P10">Syrian</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P24">Negative</text:p>
+      <text:p text:style-name="P13">Positive</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">He, she, it</text:p>
+      <text:p text:style-name="P10">He, she, it</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20"/>
+      <text:p text:style-name="P9"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">Is</text:p>
+      <text:p text:style-name="P10">is</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">Not</text:p>
+      <text:p text:style-name="P9"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">Syrian</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P24">Question</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">am</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20"/>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">I, you, we, they</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20"/>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">Syrian?</text:p>
+      <text:p text:style-name="P14">Syrian</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P24">Question</text:p>
+      <text:p text:style-name="P13">Negative</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">is</text:p>
+      <text:p text:style-name="P9">you, we, they</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20"/>
+      <text:p text:style-name="P9"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">He, she, it</text:p>
+      <text:p text:style-name="P22">are</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P20"/>
+      <text:p text:style-name="P10">not</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="P21">Syrian?</text:p>
+      <text:p text:style-name="P10">Syrian</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P13">Negative</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P10">He, she, it</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P9"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P10">Is</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P10">Not</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P10">Syrian</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P13">Question</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P22">are</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P9"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P10">you, we, they</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P9"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P10">Syrian?</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P13">Question</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P10">is</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P9"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P10">He, she, it</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P9"/>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table2.A1" office:value-type="string">
+      <text:p text:style-name="P10">Syrian?</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:h text:style-name="P3" text:outline-level="3"><text:span text:style-name="T3"/></text:h>
-   <text:p text:style-name="P26"><text:span text:style-name="T3"/></text:p>
-   <text:p text:style-name="P26"><text:soft-page-break/>1. (we / not / go out much)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">2. (they / think it&apos;s a good idea)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">3. (he / know how to play the violin?)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">4. (why / I / have to clean up?)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">5. (she / not / sleep late at the weekends)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">6. (I / love studying languages?)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">7. (we / not / believe the Prime Minister)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">8. (you / understand the question?)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">9. <text:s/>(she / not / want to go to the cinema)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">10. (I / like trying new kinds of food)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">11. (David / want some coffee?)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">12. (what / Lucy / do at the weekends?)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">13. (they / not / work late on Fridays)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26"><text:soft-page-break/>14. (she / have three daughters)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">15. (you / own a car?)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">16. (where / Alicia / work?)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">17. (when / she / go to her Chinese class?)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">18. (I / not / believe you)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">19. (she / think about her holidays often)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">20. (you / like going to restaurants?)</text:p>
-   <text:p text:style-name="P26"><text:tab/>_________________________________________________________</text:p>
-   <text:p text:style-name="P26">21. I _________________ (be) in a café now.</text:p>
-   <text:p text:style-name="P26">22.<text:tab/>________________ (she / play) tennis every week?</text:p>
-   <text:p text:style-name="P26">23. They _________________ (go) to the cinema every Wednesday.</text:p>
-   <text:p text:style-name="P26">24. _________________ (she / be) a singer?</text:p>
-   <text:p text:style-name="P26">25. You _________________ (find) the weather here cold.</text:p>
-   <text:p text:style-name="P26">26. _________________ (they / be) on the bus?</text:p>
-   <text:p text:style-name="P26">27. Lucy _________________ (ride) her bicycle to work.</text:p>
-   <text:p text:style-name="P26">28. Why _________________ (he / be) in France?</text:p>
-   <text:p text:style-name="P26">29. I _________________ (not / play) the piano often.</text:p>
-   <text:p text:style-name="P26">30. It _________________ (not / be) cold today.</text:p>
-   <text:p text:style-name="P26">31. We _________________ (be) from Portugal.</text:p>
-   <text:p text:style-name="P26">32. _________________ (we / make) too much noise at night?</text:p>
-   <text:p text:style-name="P26"><text:soft-page-break/>33. Where _________________ (Harry / study)?</text:p>
-   <text:p text:style-name="P26">34. _________________ (it / be) foggy today?</text:p>
-   <text:p text:style-name="P26">35. We _________________ (not / be) late.</text:p>
-   <text:p text:style-name="P26">36. They _________________ (not / like) animals.</text:p>
-   <text:p text:style-name="P26">37. Where _________________ (you / be)?</text:p>
-   <text:p text:style-name="P26">38. He _________________ (not / be) an accountant.</text:p>
-   <text:p text:style-name="P26">39. _________________ (the dog / eat) chicken?</text:p>
-   <text:p text:style-name="P26">40. She _________________ (be) my sister.</text:p>
-   <text:p text:style-name="P26"/>
+   <text:h text:style-name="P23" text:outline-level="3"/>
+   <text:p text:style-name="P21"/>
+   <text:p text:style-name="P7"><text:soft-page-break/>1. (we / not / go out much)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">2. (they / think it&apos;s a good idea)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">3. (he / know how to play the violin?)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">4. (why / I / have to clean up?)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">5. (she / not / sleep late at the weekends)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">6. (I / love studying languages?)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">7. (we / not / believe the Prime Minister)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">8. (you / understand the question?)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">9. <text:s/>(she / not / want to go to the cinema)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">10. (I / like trying new kinds of food)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">11. (David / want some coffee?)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">12. (what / Lucy / do at the weekends?)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">13. (they / not / work late on Fridays)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7"><text:soft-page-break/>14. (she / have three daughters)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">15. (you / own a car?)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">16. (where / Alicia / work?)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">17. (when / she / go to her Chinese class?)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">18. (I / not / believe you)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">19. (she / think about her holidays often)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">20. (you / like going to restaurants?)</text:p>
+   <text:p text:style-name="P7"><text:tab/>_________________________________________________________</text:p>
+   <text:p text:style-name="P7">21. I _________________ (be) in a café now.</text:p>
+   <text:p text:style-name="P7">22.<text:tab/>________________ (she / play) tennis every week?</text:p>
+   <text:p text:style-name="P7">23. They _________________ (go) to the cinema every Wednesday.</text:p>
+   <text:p text:style-name="P7">24. _________________ (she / be) a singer?</text:p>
+   <text:p text:style-name="P7">25. You _________________ (find) the weather here cold.</text:p>
+   <text:p text:style-name="P7">26. _________________ (they / be) on the bus?</text:p>
+   <text:p text:style-name="P7">27. Lucy _________________ (ride) her bicycle to work.</text:p>
+   <text:p text:style-name="P7">28. Why _________________ (he / be) in France?</text:p>
+   <text:p text:style-name="P7">29. I _________________ (not / play) the piano often.</text:p>
+   <text:p text:style-name="P7">30. It _________________ (not / be) cold today.</text:p>
+   <text:p text:style-name="P7">31. We _________________ (be) from Portugal.</text:p>
+   <text:p text:style-name="P7">32. _________________ (we / make) too much noise at night?</text:p>
   </office:text>
  </office:body>
 </office:document>

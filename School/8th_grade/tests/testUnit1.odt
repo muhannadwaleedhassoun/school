@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2022-10-30T19:16:37.946542553</dc:date><meta:editing-duration>PT2H3M10S</meta:editing-duration><meta:editing-cycles>45</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="86" meta:word-count="793" meta:character-count="4245" meta:non-whitespace-character-count="3474"/></office:meta>
+ <office:meta><dc:date>2022-11-06T08:57:20.982520144</dc:date><meta:editing-duration>PT2H3M26S</meta:editing-duration><meta:editing-cycles>46</meta:editing-cycles><meta:generator>LibreOffice/7.3.6.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="86" meta:word-count="793" meta:character-count="4245" meta:non-whitespace-character-count="3474"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">30903</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">35588</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">12490</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">11859</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">35546</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">10269</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">10174</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">30903</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">35586</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">43392</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">12488</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -88,7 +88,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">171063</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">291225</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -153,7 +153,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Tahoma" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma2" style:font-size-complex="12pt" style:language-complex="ar" style:country-complex="SY"/>
@@ -277,52 +277,58 @@
    <style:text-properties officeooo:rsid="0000c9b7" officeooo:paragraph-rsid="0000c9b7"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="0000c9b7" officeooo:paragraph-rsid="0000c9b7" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="0000c9b7" officeooo:paragraph-rsid="0000c9b7" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="00013dbd"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Tahoma1" officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Tahoma1" fo:font-size="12pt" officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Tahoma1" fo:font-size="12pt" officeooo:paragraph-rsid="00013dbd" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:paragraph-rsid="00013dbd"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="0000c9b7" officeooo:paragraph-rsid="0000c9b7" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="0000c9b7" officeooo:paragraph-rsid="00013dbd"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd"/>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0000c9b7" officeooo:paragraph-rsid="0000c9b7" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="0000c9b7" officeooo:paragraph-rsid="0000c9b7" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="00013dbd"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Tahoma1" officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Tahoma1" fo:font-size="12pt" officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties style:font-name="Tahoma1" fo:font-size="12pt" officeooo:paragraph-rsid="00013dbd" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:paragraph-rsid="00013dbd"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="0000c9b7" officeooo:paragraph-rsid="0000c9b7" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0000c9b7" officeooo:paragraph-rsid="00013dbd"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties style:font-name="Tahoma1" officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties style:font-name="Tahoma1" fo:font-size="12pt" officeooo:rsid="00013dbd" officeooo:paragraph-rsid="00013dbd" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:text-properties style:font-name="Tahoma1" fo:font-size="12pt" officeooo:paragraph-rsid="00013dbd" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0000c9b7" officeooo:paragraph-rsid="0000c9b7" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:background-color="#cccccc" loext:char-shading-value="0"/>
@@ -485,7 +491,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1">
    <style:footer>
-    <text:p text:style-name="P1"><text:span text:style-name="T1">Muhannad Hassoun 0997606295</text:span><text:tab/><text:page-number text:select-page="current">2</text:page-number></text:p>
+    <text:p text:style-name="P1"><text:span text:style-name="T1">Muhannad Hassoun 0997606295</text:span><text:tab/><text:page-number text:select-page="current">3</text:page-number></text:p>
    </style:footer>
   </style:master-page>
  </office:master-styles>
@@ -499,212 +505,214 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P5">True or False</text:p>
-   <text:list xml:id="list1403723021" text:style-name="L1">
+   <text:p text:style-name="P6">True or False</text:p>
+   <text:p text:style-name="P6"/>
+   <text:list xml:id="list2231729757" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P13">You can<text:span text:style-name="T4">n’t</text:span> meet new people at school.</text:p>
+     <text:p text:style-name="P15">You can<text:span text:style-name="T4">n’t</text:span> meet new people at school.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13"><text:span text:style-name="T4">Everybody</text:span> experiences problems at school.</text:p>
+     <text:p text:style-name="P15"><text:span text:style-name="T4">Everybody</text:span> experiences problems at school.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13">Negative feelings are accompanied with the hardships of the school life.</text:p>
+     <text:p text:style-name="P15">Negative feelings are accompanied with the hardships of the school life.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">Our worries at school may greatly improve our results. </text:p>
+     <text:p text:style-name="P16">Our worries at school may greatly improve our results. </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">Bullying is a complex problem.</text:p>
+     <text:p text:style-name="P16">Bullying is a complex problem.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">Understanding the problem and asking for help are uncessesary.</text:p>
+     <text:p text:style-name="P16">Understanding the problem and asking for help are uncessesary.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">All bullies know that they are bullying.</text:p>
+     <text:p text:style-name="P16">All bullies know that they are bullying.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">Bullies misbehave in order to draw other people’ attention</text:p>
+     <text:p text:style-name="P16">Bullies misbehave in order to draw other people’ attention</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">people feel happy when we keep them away from activities </text:p>
+     <text:p text:style-name="P16">people feel happy when we keep them away from activities </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">knocking things out of others hands is fun.</text:p>
+     <text:p text:style-name="P16">knocking things out of others hands is fun.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">You should treat people the way they treat you.</text:p>
+     <text:p text:style-name="P16">You should treat people the way they treat you.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">Bullies are entertaining. </text:p>
+     <text:p text:style-name="P16">Bullies are entertaining. </text:p>
+     <text:p text:style-name="P16"/>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15">Choose the correct option:</text:p>
-   <text:p text:style-name="P15"/>
-   <text:list xml:id="list191639219988470" text:continue-numbering="true" text:style-name="L1">
+   <text:p text:style-name="P7">Choose the correct option:</text:p>
+   <text:p text:style-name="P7"/>
+   <text:list xml:id="list85721532716003" text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P16">(is – does – do) thinking of being to school worry you?</text:p>
+     <text:p text:style-name="P17">(is – does – do) thinking of being to school worry you?</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">To uncover a hidden thing is to :</text:p>
-     <text:p text:style-name="P17">a- hesitate it<text:tab/><text:tab/>b- expose it<text:tab/><text:tab/>c- solve it.<text:tab/><text:tab/>d- bully it.</text:p>
+     <text:p text:style-name="P18">To uncover a hidden thing is to :</text:p>
+     <text:p text:style-name="P18">a- hesitate it<text:tab/><text:tab/>b- expose it<text:tab/><text:tab/>c- solve it.<text:tab/><text:tab/>d- bully it.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">to stop briefly before you do something especially because you are nervous or unsure about what to do (a- hesitate <text:tab/><text:tab/>b- expose<text:tab/><text:tab/>c- solve)</text:p>
+     <text:p text:style-name="P18">to stop briefly before you do something especially because you are nervous or unsure about what to do (a- hesitate <text:tab/><text:tab/>b- expose<text:tab/><text:tab/>c- solve)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">someone who frightens, hurts, or threatens smaller or weaker people:</text:p>
-     <text:p text:style-name="P17">a- a bully<text:tab/><text:tab/>b- a teacher<text:tab/><text:tab/>c- a student<text:tab/><text:tab/>d- complicated</text:p>
+     <text:p text:style-name="P18">someone who frightens, hurts, or threatens smaller or weaker people:</text:p>
+     <text:p text:style-name="P18">a- a bully<text:tab/><text:tab/>b- a teacher<text:tab/><text:tab/>c- a student<text:tab/><text:tab/>d- complicated</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">hard to understand, explain, or deal with:</text:p>
-     <text:p text:style-name="P17"><text:s/>a- a teacher<text:tab/><text:tab/>b- a bully<text:tab/><text:tab/>c- complicated<text:tab/>d- student</text:p>
+     <text:p text:style-name="P18">hard to understand, explain, or deal with:</text:p>
+     <text:p text:style-name="P18"><text:s/>a- a teacher<text:tab/><text:tab/>b- a bully<text:tab/><text:tab/>c- complicated<text:tab/>d- student</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">a feeling of having respect for yourself and your abilities:</text:p>
-     <text:p text:style-name="P17"><text:s/>a- hesitate<text:tab/><text:tab/>b- depressed<text:tab/><text:tab/>c- self-esteem<text:tab/>d- complicated</text:p>
+     <text:p text:style-name="P18">a feeling of having respect for yourself and your abilities:</text:p>
+     <text:p text:style-name="P18"><text:s/>a- hesitate<text:tab/><text:tab/>b- depressed<text:tab/><text:tab/>c- self-esteem<text:tab/>d- complicated</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">Everyone ……….. about things that happen at school:</text:p>
-     <text:p text:style-name="P17"><text:s/>a- worry<text:tab/><text:tab/>b- worries<text:tab/><text:tab/>c- worried<text:tab/><text:tab/>d- has worried</text:p>
+     <text:p text:style-name="P18">Everyone ……….. about things that happen at school:</text:p>
+     <text:p text:style-name="P18"><text:s/>a- worry<text:tab/><text:tab/>b- worries<text:tab/><text:tab/>c- worried<text:tab/><text:tab/>d- has worried</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">Problems happen at school …… time ….. time.</text:p>
-     <text:p text:style-name="P17"><text:s/>a- in/to<text:tab/><text:tab/>b- from/to<text:tab/><text:tab/>c- in/at<text:tab/><text:tab/>d- at/in</text:p>
+     <text:p text:style-name="P18">Problems happen at school …… time ….. time.</text:p>
+     <text:p text:style-name="P18"><text:s/>a- in/to<text:tab/><text:tab/>b- from/to<text:tab/><text:tab/>c- in/at<text:tab/><text:tab/>d- at/in</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17"><text:s/>No one passed through school Without ………….. some problems.</text:p>
-     <text:p text:style-name="P17"><text:s/>a- experience<text:tab/>b- experiencing<text:tab/>c- experienceing<text:tab/>d- experiences</text:p>
+     <text:p text:style-name="P18"><text:s/>No one passed through school Without ………….. some problems.</text:p>
+     <text:p text:style-name="P18"><text:s/>a- experience<text:tab/>b- experiencing<text:tab/>c- experienceing<text:tab/>d- experiences</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17"><text:s/>The stresses ….. school lifemake us feel unhappy.</text:p>
-     <text:p text:style-name="P17"><text:s text:c="2"/>a- at<text:tab/><text:tab/><text:tab/>b- of<text:tab/><text:tab/><text:tab/>c- in<text:tab/><text:tab/><text:tab/>d- from</text:p>
+     <text:p text:style-name="P18"><text:s/>The stresses ….. school lifemake us feel unhappy.</text:p>
+     <text:p text:style-name="P18"><text:s text:c="2"/>a- at<text:tab/><text:tab/><text:tab/>b- of<text:tab/><text:tab/><text:tab/>c- in<text:tab/><text:tab/><text:tab/>d- from</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17"><text:s/>Sometimes we ………… it hard to get up.</text:p>
-     <text:p text:style-name="P17"><text:s text:c="2"/>a- found<text:tab/><text:tab/>b- finded<text:tab/><text:tab/>c- find<text:tab/><text:tab/><text:tab/>d- have found</text:p>
+     <text:p text:style-name="P18"><text:s/>Sometimes we ………… it hard to get up.</text:p>
+     <text:p text:style-name="P18"><text:s text:c="2"/>a- found<text:tab/><text:tab/>b- finded<text:tab/><text:tab/>c- find<text:tab/><text:tab/><text:tab/>d- have found</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17"><text:s/>Some people may even ………… to go to school at all.</text:p>
-     <text:p text:style-name="P17"><text:s text:c="2"/>a- refuses<text:tab/><text:tab/>b- refuse<text:tab/><text:tab/>c- refused<text:tab/><text:tab/>d- have refused</text:p>
+     <text:p text:style-name="P18"><text:s/>Some people may even ………… to go to school at all.</text:p>
+     <text:p text:style-name="P18"><text:s text:c="2"/>a- refuses<text:tab/><text:tab/>b- refuse<text:tab/><text:tab/>c- refused<text:tab/><text:tab/>d- have refused</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17"><text:s/>One problem at school is not getting ….. with teacher</text:p>
+     <text:p text:style-name="P18"><text:s/>One problem at school is not getting ….. with teacher</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P3"><text:tab/>a- on<text:tab/><text:tab/><text:tab/>b- in<text:tab/><text:tab/><text:tab/>c- at<text:tab/><text:tab/><text:tab/>d- of</text:p>
-   <text:list xml:id="list191639171642027" text:continue-numbering="true" text:style-name="L1">
+   <text:list xml:id="list85723300266473" text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P17"><text:s/>………… is a problem in many schools</text:p>
-     <text:p text:style-name="P17">a- self-esteem<text:tab/>b- hesitation<text:tab/><text:tab/>c- bulling<text:tab/><text:tab/>d- teaching</text:p>
+     <text:p text:style-name="P18"><text:s/>………… is a problem in many schools</text:p>
+     <text:p text:style-name="P18"><text:soft-page-break/>a- self-esteem<text:tab/>b- hesitation<text:tab/><text:tab/>c- bulling<text:tab/><text:tab/>d- teaching</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17"><text:s/>The story I’ve read last night is ………. I’ll try and explain it</text:p>
-     <text:p text:style-name="P17"><text:soft-page-break/>a- possible<text:tab/><text:tab/>b- complicated<text:tab/>c- depressed<text:tab/><text:tab/>d- exposed</text:p>
+     <text:p text:style-name="P18"><text:s/>The story I’ve read last night is ………. I’ll try and explain it</text:p>
+     <text:p text:style-name="P18">a- possible<text:tab/><text:tab/>b- complicated<text:tab/>c- depressed<text:tab/><text:tab/>d- exposed</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">Nada felt lonely and ………………..</text:p>
-     <text:p text:style-name="P17">a- depressed<text:tab/><text:tab/>b- complicated<text:tab/>c- bullying<text:tab/><text:tab/>d- exposed</text:p>
+     <text:p text:style-name="P18">Nada felt lonely and ………………..</text:p>
+     <text:p text:style-name="P18">a- depressed<text:tab/><text:tab/>b- complicated<text:tab/>c- bullying<text:tab/><text:tab/>d- exposed</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">Potatoes trun green when ….. to light</text:p>
+     <text:p text:style-name="P18">Potatoes trun green when ….. to light</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P3"><text:tab/>a- depressed<text:tab/><text:tab/>b- possible<text:tab/><text:tab/>c- hesitated <text:tab/><text:tab/>d- exposed</text:p>
-   <text:list xml:id="list191638953258706" text:continue-numbering="true" text:style-name="L1">
+   <text:list xml:id="list85723201503252" text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P17">John didn’t ……… for a moment about taking the job</text:p>
-     <text:p text:style-name="P17">a- hesitate<text:tab/><text:tab/>b- hesitated<text:tab/><text:tab/>c- hesitates<text:tab/><text:tab/>d- have hesitated</text:p>
+     <text:p text:style-name="P18">John didn’t ……… for a moment about taking the job</text:p>
+     <text:p text:style-name="P18">a- hesitate<text:tab/><text:tab/>b- hesitated<text:tab/><text:tab/>c- hesitates<text:tab/><text:tab/>d- have hesitated</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">We need to more satisfied with ourselves to build our ……….</text:p>
-     <text:p text:style-name="P17">a- hesitation<text:tab/><text:tab/>b- self-esteem<text:tab/>c- buylling<text:tab/><text:tab/>d- drepression</text:p>
+     <text:p text:style-name="P18">We need to more satisfied with ourselves to build our ……….</text:p>
+     <text:p text:style-name="P18">a- hesitation<text:tab/><text:tab/>b- self-esteem<text:tab/>c- buylling<text:tab/><text:tab/>d- drepression</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">My ster<text:span text:style-name="T31">e</text:span>o (stops- stopped) working last night.</text:p>
+     <text:p text:style-name="P18">My ster<text:span text:style-name="T31">e</text:span>o (stops- stopped) working last night.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">The weather ( is – was – are) dreadful at the weekend.</text:p>
+     <text:p text:style-name="P18">The weather ( is – was – are) dreadful at the weekend.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">Samer ( was taking – is taking ) a shower when the telephone rang.</text:p>
+     <text:p text:style-name="P18">Samer ( was taking – is taking ) a shower when the telephone rang.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">John was playing tennis when he ( hurt- hurts- hurted) his leg.</text:p>
+     <text:p text:style-name="P18">John was playing tennis when he ( hurt- hurts- hurted) his leg.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">I (was going – wen – go) home when I (met – was meeting – have met) a friend.</text:p>
+     <text:p text:style-name="P18">I (was going – wen – go) home when I (met – was meeting – have met) a friend.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">In a way that is planned or intended : </text:p>
-     <text:p text:style-name="P17">a- on purpose<text:tab/>b- belonging<text:tab/><text:tab/>c- jealous<text:tab/><text:tab/>d- oblige</text:p>
+     <text:p text:style-name="P18">In a way that is planned or intended : </text:p>
+     <text:p text:style-name="P18">a- on purpose<text:tab/>b- belonging<text:tab/><text:tab/>c- jealous<text:tab/><text:tab/>d- oblige</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">The things that belong to a person :</text:p>
-     <text:p text:style-name="P17">a- on purpose<text:tab/>b- belonging<text:tab/><text:tab/>c- jealous<text:tab/><text:tab/>d- oblige</text:p>
+     <text:p text:style-name="P18">The things that belong to a person :</text:p>
+     <text:p text:style-name="P18">a- on purpose<text:tab/>b- belonging<text:tab/><text:tab/>c- jealous<text:tab/><text:tab/>d- oblige</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">To force or require (someone or something) to do something :</text:p>
-     <text:p text:style-name="P17">a- on purpose<text:tab/>b- belonging<text:tab/><text:tab/>c- jealous<text:tab/><text:tab/>d- oblige</text:p>
+     <text:p text:style-name="P18">To force or require (someone or something) to do something :</text:p>
+     <text:p text:style-name="P18">a- on purpose<text:tab/>b- belonging<text:tab/><text:tab/>c- jealous<text:tab/><text:tab/>d- oblige</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">Things that interest people:</text:p>
-     <text:p text:style-name="P17">a- entertainment<text:tab/>b- movies<text:tab/><text:tab/>c- fun<text:tab/><text:tab/><text:tab/>d- on purpose</text:p>
+     <text:p text:style-name="P18">Things that interest people:</text:p>
+     <text:p text:style-name="P18">a- entertainment<text:tab/>b- movies<text:tab/><text:tab/>c- fun<text:tab/><text:tab/><text:tab/>d- on purpose</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">Liked or enjoyed by many people:</text:p>
-     <text:p text:style-name="P17">a- popular<text:tab/><text:tab/>b- entertainment <text:tab/>c-fun<text:tab/><text:tab/><text:tab/>d- bullying</text:p>
+     <text:p text:style-name="P18">Liked or enjoyed by many people:</text:p>
+     <text:p text:style-name="P18">a- popular<text:tab/><text:tab/>b- entertainment <text:tab/>c-fun<text:tab/><text:tab/><text:tab/>d- bullying</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17"><text:s/>People bully for ………. reasons:</text:p>
-     <text:p text:style-name="P17">a- much<text:tab/><text:tab/>b- any<text:tab/><text:tab/><text:tab/>c- many<text:tab/><text:tab/>d- money</text:p>
+     <text:p text:style-name="P18"><text:s/>People bully for ………. reasons:</text:p>
+     <text:p text:style-name="P18">a- much<text:tab/><text:tab/>b- any<text:tab/><text:tab/><text:tab/>c- many<text:tab/><text:tab/>d- money</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">I wanted to ……. to the park yesterday</text:p>
-     <text:p text:style-name="P17">a- went<text:tab/><text:tab/>b- go<text:tab/><text:tab/><text:tab/>c- gone<text:tab/><text:tab/>d- goes</text:p>
+     <text:p text:style-name="P18">I wanted to ……. to the park yesterday</text:p>
+     <text:p text:style-name="P18">a- went<text:tab/><text:tab/>b- go<text:tab/><text:tab/><text:tab/>c- gone<text:tab/><text:tab/>d- goes</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17"><text:s/>He doesn’t …… anything to say:</text:p>
-     <text:p text:style-name="P17">a- have<text:tab/><text:tab/>b- has<text:tab/><text:tab/><text:tab/>c- had <text:tab/><text:tab/>c- want</text:p>
+     <text:p text:style-name="P18"><text:s/>He doesn’t …… anything to say:</text:p>
+     <text:p text:style-name="P18">a- have<text:tab/><text:tab/>b- has<text:tab/><text:tab/><text:tab/>c- had <text:tab/><text:tab/>c- want</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">she ( read, was reading) a book when the phone rang</text:p>
+     <text:p text:style-name="P18">she ( read, was reading) a book when the phone rang</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">when they ( were arriving, arrived) we were waiting for the bus.</text:p>
+     <text:p text:style-name="P18">when they ( were arriving, arrived) we were waiting for the bus.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">The teacher ( was, was being) angry because we were talking. </text:p>
+     <text:p text:style-name="P18">The teacher ( was, was being) angry because we were talking. </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">I was studying when the electricity (went, goes) off.</text:p>
+     <text:p text:style-name="P18">I was studying when the electricity (went, goes) off.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">I ( break, broke) my arm while we ere playing football.</text:p>
+     <text:p text:style-name="P18">I ( break, broke) my arm while we ere playing football.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17">Ahmad ………… sounds, when I entered the room.</text:p>
-     <text:p text:style-name="P17">a- heard<text:tab/><text:tab/>b- was hearing<text:tab/>c – hearded<text:tab/><text:tab/>c- heart</text:p>
+     <text:p text:style-name="P18">Ahmad ………… sounds, when I entered the room.</text:p>
+     <text:p text:style-name="P18">a- heard<text:tab/><text:tab/>b- was hearing<text:tab/>c – hearded<text:tab/><text:tab/>c- heart</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P3"><text:span text:style-name="T5">Make questions about the underlined words:</text:span> </text:p>
-   <text:list xml:id="list191639748573036" text:continue-numbering="true" text:style-name="L1">
+   <text:list xml:id="list85722052815650" text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P18">I went to the <text:span text:style-name="T10">library</text:span> yesterday. </text:p>
+     <text:p text:style-name="P19">I went to the <text:span text:style-name="T10">library</text:span> yesterday. </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18">I <text:span text:style-name="T6">play chess</text:span> every friday.</text:p>
+     <text:p text:style-name="P19">I <text:span text:style-name="T6">play chess</text:span> every friday.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P19">Columbus discovered <text:span text:style-name="T6">America</text:span> in 1492</text:p>
+     <text:p text:style-name="P20">Columbus discovered <text:span text:style-name="T6">America</text:span> in 1492</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P19">He is always late <text:span text:style-name="T6">because he never sets the alarm clock.</text:span></text:p>
+     <text:p text:style-name="P20">He is always late <text:span text:style-name="T6">because he never sets the alarm clock.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P20"><text:span text:style-name="T4">We have to start work </text:span><text:span text:style-name="T7">at three o’clock</text:span><text:span text:style-name="T4">.</text:span></text:p>
+     <text:p text:style-name="P21"><text:soft-page-break/><text:span text:style-name="T4">We have to start work </text:span><text:span text:style-name="T7">at three o’clock</text:span><text:span text:style-name="T4">.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12"><text:span text:style-name="T28">I </text:span><text:span text:style-name="T27">take </text:span><text:span text:style-name="T28">The </text:span><text:span text:style-name="T27">Bus </text:span><text:span text:style-name="T30">nubmer</text:span><text:span text:style-name="T29"> 5</text:span><text:span text:style-name="T27"> to work.</text:span></text:p>
+     <text:p text:style-name="P14"><text:span text:style-name="T28">I </text:span><text:span text:style-name="T27">take </text:span><text:span text:style-name="T28">The </text:span><text:span text:style-name="T27">Bus </text:span><text:span text:style-name="T30">nubmer</text:span><text:span text:style-name="T29"> 5</text:span><text:span text:style-name="T27"> to work.</text:span></text:p>
     </text:list-item>
    </text:list>
   </office:text>
